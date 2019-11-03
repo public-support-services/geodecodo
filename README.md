@@ -12,17 +12,13 @@ This idea came to our mind when we tried to find an API ready-made system that c
 
 #### Solution
  **Pelias** was found as an open-source project for map and geocoder provider.
- 
 
-Add always digital footprint for the solution developed in github for making tracking and know the history of the application is reachable and well known for developers as a journey
-
-
-## The problem first
-## Goal => Motivation
+#### Goal => Motivation
 What does this project do?
 Why is this project useful?
 How do I get started?
 Where can I get more help, if I need it?
+
 ## Code Style
 
 ## Screen Shots
@@ -30,9 +26,10 @@ Where can I get more help, if I need it?
 ## Tech / Framework used
 
 ## Features
-Heart beat service
-Based on Open Addresses Open Data 
-http://results.openaddresses.io/
+Based on [Open Addresses Open Data](http://results.openaddresses.io/) & [Pelias](https://pelias.io/)
++  Heart beat service
++  Geocoder services
++  Reverse Geocoder services
 
 ## How to Install
 
@@ -49,9 +46,10 @@ leafletjs. map with Ract | EmberJS | Stencil | Ionic | meteor [basedonrequiredsc
 
 ## Attribution + Credits attribution
 
- https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
+This approache RDD (Readme Driven Development) was inspired by:-
 
- http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
++   [This](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
++   [And this]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 ## License
 Apache License Version 2.0, for more information please check the [LICENSE](LICENSE) file.
